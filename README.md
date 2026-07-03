@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Harsh Kashyap
+# Harsh Kashyap
 
 ### Cloud & DevOps Engineer
 

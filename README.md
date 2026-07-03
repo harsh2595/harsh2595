@@ -143,15 +143,14 @@ Passionate about Cloud Computing, Infrastructure Automation, Platform Engineerin
 - Alerting
 
 ---
-
 ## 📈 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh2595&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh2595&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh2595&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh2595&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -196,7 +195,7 @@ Passionate about Cloud Computing, Infrastructure Automation, Platform Engineerin
 
 💼 LinkedIn: https://www.linkedin.com/in/harsh-kashyap-099213213/
 
-🌐 Portfolio: https://devops-portfolio-harsh.vercel.app/
+🌐 Portfolio: https://devops-portfolio-harsh.vercel.app/ 
 
 ---
 

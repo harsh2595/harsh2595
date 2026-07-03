@@ -147,11 +147,11 @@ Passionate about Cloud Computing, Infrastructure Automation, Platform Engineerin
 ## 📈 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotHarshhaa&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh2595&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHarshhaa&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh2595&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -159,7 +159,7 @@ Passionate about Cloud Computing, Infrastructure Automation, Platform Engineerin
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=NotHarshhaa&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=harsh2595&theme=tokyonight"/>
 </p>
 
 ---
@@ -167,14 +167,13 @@ Passionate about Cloud Computing, Infrastructure Automation, Platform Engineerin
 ## 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NotHarshhaa&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh2595&theme=tokyo-night"/>
 </p>
 
 ---
 
 ## 🏆 Certifications
 
-- AWS Cloud Practitioner
 - AWS Solutions Architect Associate (In Progress)
 - Terraform Associate (Planned)
 - Kubernetes CKA (planned)

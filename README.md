@@ -177,6 +177,7 @@ Passionate about Cloud Computing, Infrastructure Automation, Platform Engineerin
 - AWS Cloud Practitioner
 - AWS Solutions Architect Associate (In Progress)
 - Terraform Associate (Planned)
+- Kubernetes CKA (planned)
 
 ---
 
@@ -192,11 +193,11 @@ Passionate about Cloud Computing, Infrastructure Automation, Platform Engineerin
 
 ## 🤝 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: harshkashyap.hk996@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
+💼 LinkedIn: https://www.linkedin.com/in/harsh-kashyap-099213213/
 
-🌐 Portfolio: https://your-portfolio.com
+🌐 Portfolio: https://devops-portfolio-harsh.vercel.app/
 
 ---
 
@@ -206,4 +207,4 @@ Passionate about Cloud Computing, Infrastructure Automation, Platform Engineerin
 
 ---
 
-![](https://komarev.com/ghpvc/?username=NotHarshhaa&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=harsh2595&label=Profile+Views)

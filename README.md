@@ -75,8 +75,6 @@ Prometheus • Grafana • CloudWatch
 - ConfigMaps & Secrets
 - Monitoring Stack
 
-🔗 Repository Link
-
 ---
 
 ## AWS Infrastructure using Terraform
@@ -86,8 +84,6 @@ Prometheus • Grafana • CloudWatch
 - Security Groups
 - Load Balancer
 - ECS Deployment
-
-🔗 Repository Link
 
 ---
 
@@ -99,8 +95,6 @@ Prometheus • Grafana • CloudWatch
 - ECR Push
 - ECS Deployment
 
-🔗 Repository Link
-
 ---
 
 ## Monitoring & Alerting Stack
@@ -109,17 +103,6 @@ Prometheus • Grafana • CloudWatch
 - Grafana
 - AlertManager
 - CloudWatch
-
-🔗 Repository Link
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harsh2595&show_icons=true&theme=tokyonight" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh2595&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -141,7 +124,6 @@ Prometheus • Grafana • CloudWatch
 
 # 🏆 Certifications Roadmap
 
-- ✅ AWS Cloud Practitioner
 - 🎯 AWS Solutions Architect Associate
 - 🎯 Terraform Associate
 - 🎯 Certified Kubernetes Administrator (CKA)

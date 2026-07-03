@@ -4,9 +4,9 @@
 
 ### Cloud & DevOps Engineer
 
-AWS • Kubernetes • Terraform • Docker • CI/CD • Platform Engineering
+AWS • Kubernetes • Terraform • Docker • CI/CD • Monitoring & Observability 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+Scalable+Cloud+Infrastructure;Automating+Everything+Possible;Learning+Platform+Engineering;Open+to+Remote+DevOps+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+Scalable+Cloud+Infrastructure;Automating+Everything+Possible;Learning+DevOps;Open+to+Remote+DevOps+Opportunities" />
 
 </div>
 

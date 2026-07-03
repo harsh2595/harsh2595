@@ -1,208 +1,194 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Harsh+Kashyap+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Building+Reliable+%26+Scalable+Infrastructure" />
+<div align="center">
 
-<h1 align="center">🚀 Harsh Kashyap</h1>
+# 🚀 Harsh Kashyap
 
-<h3 align="center">
-Cloud & DevOps Engineer | AWS | Terraform | Docker | Kubernetes | CI/CD
-</h3>
+### Cloud & DevOps Engineer
 
-<p align="center">
-Passionate about Cloud Computing, Infrastructure Automation, Platform Engineering and Building Production-Ready Systems.
-</p>
+AWS • Kubernetes • Terraform • Docker • CI/CD • Platform Engineering
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+Scalable+Cloud+Infrastructure;Automating+Everything+Possible;Learning+Platform+Engineering;Open+to+Remote+DevOps+Opportunities" />
 
-## 👨‍💻 About Me
-
-🔹 DevOps Engineer passionate about cloud technologies and automation
-
-🔹 Experience with AWS cloud infrastructure and containerized deployments
-
-🔹 Strong interest in Infrastructure as Code and Platform Engineering
-
-🔹 Building production-grade DevOps projects to solve real-world challenges
-
-🔹 Open to Remote DevOps & Cloud Engineering Opportunities
-
-🔹 Currently learning:
-- Kubernetes Advanced Concepts
-- Platform Engineering
-- GitOps
-- ArgoCD
-- Site Reliability Engineering (SRE)
+</div>
 
 ---
 
-## 🚀 What I Do
+# 👨‍💻 About Me
 
-✔️ Build scalable cloud infrastructure
+I am a DevOps Engineer focused on building scalable, reliable, and automated cloud infrastructure.
 
-✔️ Automate deployments using CI/CD pipelines
+- ☁️ AWS Cloud
+- 🐳 Docker & Kubernetes
+- ⚙️ Terraform & Infrastructure as Code
+- 🔄 CI/CD Automation
+- 📊 Monitoring & Observability
+- 🚀 Platform Engineering
 
-✔️ Containerize applications using Docker
-
-✔️ Deploy workloads on Kubernetes
-
-✔️ Monitor infrastructure and applications
-
-✔️ Implement Infrastructure as Code using Terraform
-
-✔️ Improve reliability, scalability, and security
+Currently building production-grade projects and preparing for global remote DevOps opportunities.
 
 ---
 
-## ☁️ Cloud & DevOps Stack
+# 🛠 Tech Stack
 
-### Cloud Platforms
+### Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-### DevOps Tools
+### Containers & Orchestration
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 </p>
 
-### Operating Systems
+### Infrastructure as Code
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+<img src="https://skillicons.dev/icons?i=terraform" />
 </p>
 
-### Monitoring & Logging
-
-- Prometheus
-- Grafana
-- CloudWatch
-
-### Web Servers & Networking
-
-- Nginx
-- Load Balancers
-- Reverse Proxy
-- DNS
-- SSL/TLS
-
-### Version Control
+### CI/CD
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
 </p>
 
-### Scripting
+### Linux & Scripting
 
 <p>
-<img src="https://skillicons.dev/icons?i=bash" />
+<img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
+
+### Monitoring
+
+Prometheus • Grafana • CloudWatch
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
-### 🔥 AWS Three-Tier Architecture
+## Production Kubernetes Platform
 
-- VPC Design
-- Public & Private Subnets
-- NAT Gateway
+- Multi-node Kubernetes Cluster
+- Ingress Controller
+- HPA
+- ConfigMaps & Secrets
+- Monitoring Stack
+
+🔗 Repository Link
+
+---
+
+## AWS Infrastructure using Terraform
+
+- VPC
+- Public/Private Subnets
+- Security Groups
 - Load Balancer
-- Auto Scaling
-- RDS
+- ECS Deployment
 
-### 🔥 Kubernetes Production Deployment
+🔗 Repository Link
 
-- Deployments
-- Services
-- Ingress
-- ConfigMaps
-- Secrets
-- Horizontal Pod Autoscaling
+---
 
-### 🔥 CI/CD Pipeline
+## GitHub Actions CI/CD Pipeline
 
-- GitHub Actions
-- Automated Build
-- Docker Image Creation
+- Build
+- Test
+- Docker Image
 - ECR Push
 - ECS Deployment
 
-### 🔥 Infrastructure as Code
+🔗 Repository Link
 
-- Terraform Modules
-- Remote State Management
-- ECS Cluster
-- IAM Roles
-- Security Groups
+---
 
-### 🔥 Monitoring Stack
+## Monitoring & Alerting Stack
 
 - Prometheus
 - Grafana
+- AlertManager
 - CloudWatch
-- Alerting
 
----
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh2595&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh2595&layout=compact&theme=tokyonight" />
-</p>
+🔗 Repository Link
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=harsh2595&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harsh2595&show_icons=true&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh2595&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh2595&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=harsh2595&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 Certifications
+# 📊 Contribution Graph
 
-- AWS Solutions Architect Associate (In Progress)
-- Terraform Associate (Planned)
-- Kubernetes CKA (planned)
-
----
-
-## 🎯 2026 Goals
-
-- Master Kubernetes
-- Learn GitOps & ArgoCD
-- Build End-to-End Platform Engineering Projects
-- Contribute to Open Source
-- Secure a Global Remote DevOps Role
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh2595&theme=tokyo-night" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+# 🏆 Certifications Roadmap
 
-📧 Email: harshkashyap.hk996@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/harsh-kashyap-099213213/
-
-🌐 Portfolio: https://devops-portfolio-harsh.vercel.app/ 
-
----
-
-## 💡 DevOps Philosophy
-
-> "Automate everything that is repetitive. Monitor everything that is critical. Document everything that matters."
+- ✅ AWS Cloud Practitioner
+- 🎯 AWS Solutions Architect Associate
+- 🎯 Terraform Associate
+- 🎯 Certified Kubernetes Administrator (CKA)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=harsh2595&label=Profile+Views)
+# 🎯 Current Focus
+
+```yaml
+Cloud:
+  - AWS
+
+Containers:
+  - Docker
+  - Kubernetes
+
+IaC:
+  - Terraform
+
+CI/CD:
+  - GitHub Actions
+  - Jenkins
+
+Monitoring:
+  - Prometheus
+  - Grafana
+  - CloudWatch
+
+Learning:
+  - GitOps
+  - ArgoCD
+  - Platform Engineering
+```
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn:
+www.linkedin.com/in/harsh-kashyap-099213213/
+
+🌐 Portfolio:
+https://devops-portfolio-harsh.vercel.app/
+
+📧 Email:
+harshkashyap.hk996@gmail.com
+
+---
+
+> "Infrastructure should be automated, observable, reproducible, and scalable."
